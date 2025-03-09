@@ -1,0 +1,9 @@
+langchain 
+faiss-cpu
+flask
+flask-restful
+requests
+sentence-transformers
+beautifulsoup4
+groq
+langchain_community
