@@ -15,7 +15,7 @@ It scrapes course data from Brainlox, stores it in a vector database, and provid
 #### 1. Clone the Repository
 
 ```python
-git clone https://github.com/aryagokh/Triluxo_Technologies_Task.gitcd <your-project-folder>
+git clone https://github.com/aryagokh/Triluxo_Technologies_Task.git
 cd .
 ```
 
