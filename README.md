@@ -5,11 +5,11 @@ This project is a custom chatbot built with Flask, LangChain, FAISS, and Groq AP
 It scrapes course data from Brainlox, stores it in a vector database, and provides intelligent responses via a Flask RESTful API.
 
 ### 📌 Features
-✅ Scrapes course data from Brainlox using LangChain WebBaseLoader.
-✅ Generates embeddings using Hugging Face Sentence Transformers.
-✅ Stores embeddings in FAISS, enabling fast similarity search.
-✅ Builds a Flask RESTful API to handle user queries.
-✅ Uses Groq API to generate intelligent chatbot responses.
+✅ Scrapes course data from Brainlox using LangChain WebBaseLoader.<br>
+✅ Generates embeddings using Hugging Face Sentence Transformers.<br>
+✅ Stores embeddings in FAISS, enabling fast similarity search.<br>
+✅ Builds a Flask RESTful API to handle user queries.<br>
+✅ Uses Groq API to generate intelligent chatbot responses.<br>
 
 ### 🚀 Installation & Setup
 #### 1. Clone the Repository
